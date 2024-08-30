@@ -1,4 +1,4 @@
-# projectAI
+# AI works
 
 ### 인공지능 관련 코드
 
