@@ -1,3 +1,5 @@
+// test779 : ACH namer
+
 package main
 
 import (
@@ -463,3 +465,4 @@ func main() {
 
 // main -tgt . -rename -i Q1 -i Q2 -i Q3
 // main -tgt . -real -idf 0 -sf 1.0 -cos 3.0 -th 0.5
+
