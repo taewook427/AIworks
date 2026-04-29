@@ -1,15 +1,7 @@
-# AI works
+# CS/AI test
 
-### 인공지능 관련 코드
+코딩과 인공지능 연습장 Test & Practice of programming and AI
 
-##### 현재 프로젝트 목록
-
-- 딥러닝 스터디
-
-- 연세의대 부트캠프
-
-- 동성고 멘토링 자료
-
-- ACH-namer 파일명 군집화
-
-last update : 2025.09.02
+- Language: 프로그래밍 언어 연습 Programming Language Practice
+- AIML: 인공지능과 기계학습 관련 Artificial Intelligence and Machine Learning
+- System: 저수준 시스템 프로그래밍 Low-Level System Programming

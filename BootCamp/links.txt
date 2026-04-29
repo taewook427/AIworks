@@ -1,4 +1,0 @@
-https://physionet.org/about/database/
-https://medmnist.com/
-https://www.kaggle.com/
-https://www.aihub.or.kr/
