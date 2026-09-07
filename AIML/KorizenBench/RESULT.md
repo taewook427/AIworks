@@ -70,7 +70,7 @@
 
 # extra
 
-## Human Expert (k-atusa members)
+## Human Quick Review (k-atusa members)
 
 > 11/15
 
