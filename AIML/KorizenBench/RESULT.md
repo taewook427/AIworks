@@ -2,11 +2,11 @@
 
 ## Gemini Flash 3.8 (Web Extended)
 
-> 6/15
+> 7/15
 
 | A1 | A2 | A3 | A4 | A5 | A6 | A7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| X | O | O | X | X | O | O |
+| O | O | O | X | X | O | O |
 
 | B1 | B2 | B3 | B4 | B5 |
 | :-- | :-- | :-- | :-- | :-- |
@@ -52,23 +52,39 @@
 
 # Antropic
 
-## Claude Sonnet 5 (Web mid)
+## Claude Sonnet 5 (Web max-effort)
 
-> -/15
+> 5/15
 
 | A1 | A2 | A3 | A4 | A5 | A6 | A7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| O | X | X | X |  |  |  |
+| O | X | O | O | X | O | X |
 
 | B1 | B2 | B3 | B4 | B5 |
 | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+| X | X | O | X | X |
 
 | C1 | C2 | C3 |
 | :-- | :-- | :-- |
-|  |  |  |
+| X | X | X |
 
-# .
+# extra
+
+## Human Expert (k-atusa members)
+
+> 11/15
+
+| A1 | A2 | A3 | A4 | A5 | A6 | A7 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| O | O | O | O | X | O | O |
+
+| B1 | B2 | B3 | B4 | B5 |
+| :-- | :-- | :-- | :-- | :-- |
+| O | X | O | O | O |
+
+| C1 | C2 | C3 |
+| :-- | :-- | :-- |
+| O | X | X |
 
 ## template ()
 
