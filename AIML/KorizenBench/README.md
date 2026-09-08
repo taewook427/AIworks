@@ -8,8 +8,8 @@ Evaluates image recognition and long-term reasoning ability by interpreting give
 이미지 인식, 연속추론(한 가설을 계속 파고들어 답을 구하는 것), 추론관리(잘못된 가설인지 판단하는 것) 능력이 모두 요구된다.
 All image interpreting, continuous reasoning (continuously digging into a hypothesis to find an answer) and reasoning management ability (determining whether a hypothesis is incorrect) are required.
 
-과제는 난이도에 따라 7개의 Level A, 5개의 Level B, 3개의 Level C, 2개의 Level D로 구성된다.
-The tasks are composed of 7 Level A, 5 Level B, 3 Level C, and 2 Level D according to difficulty.
+과제는 난이도에 따라 7개의 Level A, 5개의 Level B, 3개의 Level C, 3개의 Level D로 구성된다.
+The tasks are composed of 7 Level A, 5 Level B, 3 Level C, and 3Level D according to difficulty.
 
 ## Test
 
