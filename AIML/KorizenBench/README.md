@@ -1,6 +1,6 @@
 # KorizenBench
 
-> k-atusa long-horizen reasoning benchmark
+> k-atusa long-term reasoning benchmark
 
 주어진 정적 퍼즐을 해석하여 시각 인식과 장기 추론 능력을 평가한다.
 Evaluates image recognition and long-term reasoning ability by interpreting given static puzzles.
